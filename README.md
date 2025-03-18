@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeDevCologne
 - 👀 I’m interested in developing this and that ;-)
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
